@@ -1,0 +1,11 @@
+cff-version: 1.2.0
+message: "If you use this PyTorch e-prop implementation, please cite it as below."
+authors:
+- family-names: "Frenkel"
+  given-names: "Charlotte"
+  orcid: "https://orcid.org/0000-0002-1879-0288"
+title: "PyTorch e-prop implementation"
+version: 1.0
+date-released: 2022-02-18
+license: Apache-2.0
+url: "https://github.com/ChFrenkel/eprop-PyTorch/"
